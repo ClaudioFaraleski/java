@@ -1,4 +1,4 @@
-public class App {
+public class Operadores {
     public static void main(String[] args) throws Exception {
         
         double soma = 15.5 + 16.8;
