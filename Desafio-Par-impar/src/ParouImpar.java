@@ -2,7 +2,7 @@ public class ParouImpar {
 
     public static int condicao(int numero){
 
-        int condicao = numero % 2;
+        final int condicao = numero % 2;
 
         return condicao;
        
